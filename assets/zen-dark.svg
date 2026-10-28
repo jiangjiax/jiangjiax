@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-label="一个人能认识到现实世界中的不完美，同时还能想到一种方式作出改进，同时还能实现自己的想法，当这三件事恰好发生在一个人身上时，他就可以改变世界。——鲤哥builder">
+  <style>
+    .t { font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "STSong", "SimSun", serif; }
+  </style>
+  <g class="t" text-anchor="middle" fill="#d6d6d6" font-size="30" letter-spacing="4">
+    <text x="600" y="140">一个人能认识到现实世界中的不完美，</text>
+    <text x="600" y="206">同时还能想到一种方式作出改进，</text>
+    <text x="600" y="272">同时还能实现自己的想法，</text>
+    <text x="600" y="338">当这三件事恰好发生在一个人身上时，</text>
+    <text x="600" y="404">他就可以改变世界。</text>
+  </g>
+  <text x="600" y="500" class="t" text-anchor="middle" fill="#7a7a7a" font-size="19" letter-spacing="6">鲤哥builder</text>
+</svg>
